@@ -1,0 +1,21 @@
+{
+  "name": "auth-apollographql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.11.0",
+    "apollo-server-express": "^2.11.0",
+    "bcrypt": "^4.0.1",
+    "express": "^4.17.1",
+    "graphql": "^14.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.6",
+    "nodemon": "^2.0.2"
+  }
+}
